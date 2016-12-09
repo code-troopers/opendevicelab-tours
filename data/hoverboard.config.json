@@ -1,0 +1,77 @@
+{
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    }
+  ],
+  "url": "http://opendevicelab.code-troopers.com/",
+  "partnershipProposition": "mailto:odltours@code-troopers.com",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "odltours@code-troopers.com",
+        "url": "mailto:odltours@code-troopers.com"
+      }
+    ]
+  },
+  "tickets":{
+    "url": "mailto:odltours@code-troopers.com"
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": "20+",
+      "caption": "devices"
+    }
+  ],
+  "hashtag": "odltours",
+  "gallery": {
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "",
+    "pointer": {
+      "latitude": 47.3931841,
+      "longitude": 0.6686861,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": 47.3931841,
+      "longitude": 0.6664974
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+  "callToAction": {
+    "videoTitle": "action-title"
+  }
+}

@@ -1,0 +1,23 @@
+[
+
+  {
+    "title": "general-partner",
+    "logos": [
+      {
+        "name": "Code-Troopers",
+        "url": "https://code-troopers.com",
+        "logoUrl": "../images/logos/code-troopers.png"
+      },
+      {
+        "name": "GDG Tours",
+        "url": "https://code-troopers.com",
+        "logoUrl": "../images/logos/gdg-tours.png"
+      },
+      {
+        "name": "Open Device Lab",
+        "url": "https://opendevicelab.com/",
+        "logoUrl": "../images/logos/odl-logo.png"
+      }
+    ]
+  }
+]
